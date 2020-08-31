@@ -1,0 +1,80 @@
+a {
+	border-radius: 10px;
+	color: black;
+	padding: 15px;
+	text-decoration: none;
+}
+
+
+a:hover {
+	background-color: black;
+	border-radius: 10px;
+	color: rgb(252, 252, 247);
+	transition-duration: 0.7s;
+	position: relative;
+	padding: 15px;	
+}
+
+
+body {
+	background-color: rgb(252, 252, 247);
+}
+
+
+.email {
+	font-size: 21px;
+	position: relative;
+	left: 60px;
+	top: 15px;
+
+}
+
+
+h1 {
+	font-family: 'Lexend Peta', sans-serif;
+	font-size: 85px;
+	position: relative;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	top: 40px;
+}
+
+
+li {
+	color: black;
+	display: inline-flex;
+	font-family: 'Lexend Peta', sans-serif;
+	font-size: 18px;
+	list-style-type: none;
+	padding: 35px;
+	text-decoration: none;
+}
+
+
+nav {
+	position: fixed;
+	left: 90px;
+	top: 0px;
+	text-align: center;
+	z-index: 10px;
+}
+
+
+p.intro {
+	font-family: 'Lexend Peta', sans-serif;
+	font-size: 27px;
+	text-align: center;
+}
+
+.phone {
+	font-size: 21px;
+	position: relative;
+	left: 935px;
+	bottom: 29px;
+}
+
+
+ul {
+	display: inline;
+}

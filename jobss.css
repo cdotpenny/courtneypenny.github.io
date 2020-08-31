@@ -1,0 +1,27 @@
+
+a:hover {
+	color: red;
+	font-size: 25px;
+	transition-duration: 0.6s;
+
+}
+
+body {
+	background-color: rgb(252, 252, 247)
+	
+}
+
+h1 {
+	color: red;
+	font-family: 'Lexend Peta', sans-serif;
+	border-bottom: 1px solid red;
+}
+
+h2 {
+	font-family: 'Lexend Peta', sans-serif;
+	font-size: 20px;
+}
+
+li {
+	font-family: 'Lexend Peta', sans-serif;
+}
